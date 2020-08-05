@@ -27,4 +27,4 @@ The user should be able to:
 
 * The URL to the deployed application
 
-* The URL to the Github repository
+* The URL to the Github repository: https://github.com/Ranjini2020/Fitness-Tracker
