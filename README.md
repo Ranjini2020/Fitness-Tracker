@@ -25,6 +25,6 @@ The user should be able to:
 
 ## Submission 
 
-* The URL to the deployed application
+* The URL to the deployed application: https://thawing-crag-17274.herokuapp.com/
 
 * The URL to the Github repository: https://github.com/Ranjini2020/Fitness-Tracker
